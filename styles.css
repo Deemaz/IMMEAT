@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  min-block-size: 100vh;
+  min-block-size: 50vh;
   margin: 0;
   padding: 20px;
   background-color: #f2f2f2;
